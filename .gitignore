@@ -1,0 +1,58 @@
+# Ignore build directory
+build/
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled static and dynamic libs
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+install_manifest.txt
+
+# Visual Studio Code
+.vscode/
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.xcassets
+*.xcsettings
+
+# macOS
+.DS_Store
+
+# CLion / JetBrains IDEs
+.idea/
+cmake-build-*/
+
+# Logs and crash dumps
+*.log
+*.stackdump
+
+# Generated files or temporary resources
+*.tmp
+*.bak
+*~
+
+# Shader compilation cache
+*.spv
+*.cache

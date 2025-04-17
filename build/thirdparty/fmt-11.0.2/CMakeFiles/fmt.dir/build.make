@@ -76,29 +76,29 @@ thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/format.cc.o: thirdparty/fmt-11.0.2/
 thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/format.cc.o: /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/format.cc
 thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/format.cc.o: thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/format.cc.o"
-	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/format.cc.o -MF CMakeFiles/fmt.dir/src/format.cc.o.d -o CMakeFiles/fmt.dir/src/format.cc.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/format.cc
+	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/format.cc.o -MF CMakeFiles/fmt.dir/src/format.cc.o.d -o CMakeFiles/fmt.dir/src/format.cc.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/format.cc
 
 thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/format.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/fmt.dir/src/format.cc.i"
-	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/format.cc > CMakeFiles/fmt.dir/src/format.cc.i
+	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/format.cc > CMakeFiles/fmt.dir/src/format.cc.i
 
 thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/format.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/fmt.dir/src/format.cc.s"
-	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/format.cc -o CMakeFiles/fmt.dir/src/format.cc.s
+	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/format.cc -o CMakeFiles/fmt.dir/src/format.cc.s
 
 thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/os.cc.o: thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/flags.make
 thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/os.cc.o: /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/os.cc
 thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/os.cc.o: thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/os.cc.o"
-	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/os.cc.o -MF CMakeFiles/fmt.dir/src/os.cc.o.d -o CMakeFiles/fmt.dir/src/os.cc.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/os.cc
+	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/os.cc.o -MF CMakeFiles/fmt.dir/src/os.cc.o.d -o CMakeFiles/fmt.dir/src/os.cc.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/os.cc
 
 thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/os.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/fmt.dir/src/os.cc.i"
-	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/os.cc > CMakeFiles/fmt.dir/src/os.cc.i
+	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/os.cc > CMakeFiles/fmt.dir/src/os.cc.i
 
 thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/os.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/fmt.dir/src/os.cc.s"
-	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/os.cc -o CMakeFiles/fmt.dir/src/os.cc.s
+	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/fmt-11.0.2/src/os.cc -o CMakeFiles/fmt.dir/src/os.cc.s
 
 # Object files for target fmt
 fmt_OBJECTS = \
@@ -108,16 +108,16 @@ fmt_OBJECTS = \
 # External object files for target fmt
 fmt_EXTERNAL_OBJECTS =
 
-thirdparty/fmt-11.0.2/libfmtd.a: thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/format.cc.o
-thirdparty/fmt-11.0.2/libfmtd.a: thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/os.cc.o
-thirdparty/fmt-11.0.2/libfmtd.a: thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/build.make
-thirdparty/fmt-11.0.2/libfmtd.a: thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libfmtd.a"
+thirdparty/fmt-11.0.2/libfmt.a: thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/format.cc.o
+thirdparty/fmt-11.0.2/libfmt.a: thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/src/os.cc.o
+thirdparty/fmt-11.0.2/libfmt.a: thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/build.make
+thirdparty/fmt-11.0.2/libfmt.a: thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libfmt.a"
 	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && $(CMAKE_COMMAND) -P CMakeFiles/fmt.dir/cmake_clean_target.cmake
 	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/fmt-11.0.2 && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/fmt.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/build: thirdparty/fmt-11.0.2/libfmtd.a
+thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/build: thirdparty/fmt-11.0.2/libfmt.a
 .PHONY : thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/build
 
 thirdparty/fmt-11.0.2/CMakeFiles/fmt.dir/clean:

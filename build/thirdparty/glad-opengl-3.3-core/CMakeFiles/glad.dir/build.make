@@ -76,15 +76,15 @@ thirdparty/glad-opengl-3.3-core/CMakeFiles/glad.dir/src/glad.c.o: thirdparty/gla
 thirdparty/glad-opengl-3.3-core/CMakeFiles/glad.dir/src/glad.c.o: /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/glad-opengl-3.3-core/src/glad.c
 thirdparty/glad-opengl-3.3-core/CMakeFiles/glad.dir/src/glad.c.o: thirdparty/glad-opengl-3.3-core/CMakeFiles/glad.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object thirdparty/glad-opengl-3.3-core/CMakeFiles/glad.dir/src/glad.c.o"
-	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/glad-opengl-3.3-core && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT thirdparty/glad-opengl-3.3-core/CMakeFiles/glad.dir/src/glad.c.o -MF CMakeFiles/glad.dir/src/glad.c.o.d -o CMakeFiles/glad.dir/src/glad.c.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/glad-opengl-3.3-core/src/glad.c
+	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/glad-opengl-3.3-core && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT thirdparty/glad-opengl-3.3-core/CMakeFiles/glad.dir/src/glad.c.o -MF CMakeFiles/glad.dir/src/glad.c.o.d -o CMakeFiles/glad.dir/src/glad.c.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/glad-opengl-3.3-core/src/glad.c
 
 thirdparty/glad-opengl-3.3-core/CMakeFiles/glad.dir/src/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/glad.dir/src/glad.c.i"
-	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/glad-opengl-3.3-core && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/glad-opengl-3.3-core/src/glad.c > CMakeFiles/glad.dir/src/glad.c.i
+	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/glad-opengl-3.3-core && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/glad-opengl-3.3-core/src/glad.c > CMakeFiles/glad.dir/src/glad.c.i
 
 thirdparty/glad-opengl-3.3-core/CMakeFiles/glad.dir/src/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/glad.dir/src/glad.c.s"
-	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/glad-opengl-3.3-core && /usr/bin/clang $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/glad-opengl-3.3-core/src/glad.c -o CMakeFiles/glad.dir/src/glad.c.s
+	cd /Users/jarinthundathil/Code/ray_tracer_openGL/build/thirdparty/glad-opengl-3.3-core && /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/glad-opengl-3.3-core/src/glad.c -o CMakeFiles/glad.dir/src/glad.c.s
 
 # Object files for target glad
 glad_OBJECTS = \

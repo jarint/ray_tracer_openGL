@@ -76,379 +76,379 @@ CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.o: CMakeFiles/RayTracing.di
 CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/AssetPath.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/AssetPath.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/AssetPath.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/AssetPath.cpp > CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/AssetPath.cpp > CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/AssetPath.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/AssetPath.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/AssetPath.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLDebug.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLDebug.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLDebug.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLDebug.cpp > CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLDebug.cpp > CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLDebug.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLDebug.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/GLDebug.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLHandles.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLHandles.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLHandles.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLHandles.cpp > CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLHandles.cpp > CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLHandles.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/GLHandles.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/GLHandles.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Geometry.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Geometry.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Geometry.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Geometry.cpp > CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Geometry.cpp > CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Geometry.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Geometry.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/Geometry.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Panel.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Panel.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Panel.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Panel.cpp > CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Panel.cpp > CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Panel.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Panel.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/Panel.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/RayTracingBaselineScenes.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/RayTracingBaselineScenes.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/RayTracingBaselineScenes.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/RayTracingBaselineScenes.cpp > CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/RayTracingBaselineScenes.cpp > CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/RayTracingBaselineScenes.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/RayTracingBaselineScenes.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/RayTracingBaselineScenes.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Shader.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Shader.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Shader.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Shader.cpp > CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Shader.cpp > CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Shader.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Shader.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/Shader.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ShaderProgram.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ShaderProgram.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ShaderProgram.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ShaderProgram.cpp > CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ShaderProgram.cpp > CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ShaderProgram.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ShaderProgram.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/ShaderProgram.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Texture.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Texture.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Texture.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Texture.cpp > CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Texture.cpp > CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Texture.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Texture.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/Texture.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TextureBuffer.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TextureBuffer.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TextureBuffer.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TextureBuffer.cpp > CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TextureBuffer.cpp > CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TextureBuffer.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TextureBuffer.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/TextureBuffer.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TurnTableView.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TurnTableView.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TurnTableView.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TurnTableView.cpp > CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TurnTableView.cpp > CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TurnTableView.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/TurnTableView.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/TurnTableView.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexArray.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexArray.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexArray.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexArray.cpp > CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexArray.cpp > CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexArray.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexArray.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/VertexArray.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexBuffer.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexBuffer.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexBuffer.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexBuffer.cpp > CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexBuffer.cpp > CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexBuffer.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/VertexBuffer.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/VertexBuffer.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Window.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Window.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Window.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Window.cpp > CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Window.cpp > CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Window.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/Window.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/Window.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/main.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/main.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/main.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/main.cpp > CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/main.cpp > CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/main.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/main.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/main.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Cameras.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Cameras.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Cameras.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Cameras.cpp > CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Cameras.cpp > CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Cameras.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Cameras.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Cameras.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Materials.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Materials.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Materials.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Materials.cpp > CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Materials.cpp > CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Materials.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Materials.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Materials.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Scene.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Scene.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Scene.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Scene.cpp > CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Scene.cpp > CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Scene.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Scene.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Scene.cpp.s
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Shapes.cpp
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Shapes.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.o -MF CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.o.d -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Shapes.cpp
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Shapes.cpp > CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Shapes.cpp > CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.i
 
 CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Shapes.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/453-skeleton/ray-trace/Shapes.cpp -o CMakeFiles/RayTracing.dir/453-skeleton/ray-trace/Shapes.cpp.s
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.i
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_glfw.cpp.s
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.i
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/backends/imgui_impl_opengl3.cpp.s
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui.cpp
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui.cpp
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.i
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui.cpp.s
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_demo.cpp
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_demo.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_demo.cpp
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_demo.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_demo.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.i
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_demo.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_demo.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_demo.cpp.s
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_draw.cpp
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_draw.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_draw.cpp
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_draw.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_draw.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.i
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_draw.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_draw.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_draw.cpp.s
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_tables.cpp
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_tables.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_tables.cpp
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_tables.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_tables.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.i
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_tables.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_tables.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_tables.cpp.s
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_widgets.cpp
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_widgets.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_widgets.cpp
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_widgets.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_widgets.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.i
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_widgets.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/imgui_widgets.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/imgui_widgets.cpp.s
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.o: CMakeFiles/RayTracing.dir/flags.make
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.o: /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.o: CMakeFiles/RayTracing.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.o -MF CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.o.d -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.o -c /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp > CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.i
 
 CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jarinthundathil/Code/ray_tracer_openGL/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp -o CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_stdlib.cpp.s
 
 # Object files for target RayTracing
 RayTracing_OBJECTS = \
@@ -513,7 +513,7 @@ RayTracing: CMakeFiles/RayTracing.dir/thirdparty/imgui-1.91.8/misc/cpp/imgui_std
 RayTracing: CMakeFiles/RayTracing.dir/build.make
 RayTracing: thirdparty/glad-opengl-3.3-core/libglad.a
 RayTracing: thirdparty/glfw-3.4/src/libglfw3.a
-RayTracing: thirdparty/fmt-11.0.2/libfmtd.a
+RayTracing: thirdparty/fmt-11.0.2/libfmt.a
 RayTracing: CMakeFiles/RayTracing.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/jarinthundathil/Code/ray_tracer_openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Linking CXX executable RayTracing"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/RayTracing.dir/link.txt --verbose=$(VERBOSE)
