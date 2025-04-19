@@ -6,7 +6,26 @@ float Shape::default_eps = 1e-8f;
 
 std::optional<Intersection> Shape::getFirstIntersection(Ray ray, float eps) const { return std::nullopt; }
 
-std::optional<Intersection> Plane::getFirstIntersection(Ray ray, float eps) const { return std::nullopt; }
+std::optional<Intersection> Plane::getFirstIntersection(Ray ray, float eps) const { 
+    ray = ray.normalize();
+
+    float denom = glm::dot(ray.direction, normal);
+    if (glm::abs(denom) < eps) {
+        // Ray is parallel to the plane
+        return std::nullopt;
+    }
+
+    float t = glm::dot(position - ray.origin, normal) / denom;
+    if (t < eps) {
+        return std::nullopt;
+    }
+
+    Intersection result;
+    result.position = ray.origin + t * ray.direction;
+    result.normal   = glm::normalize(normal);
+    result.distance = t;
+    return result; 
+}
 
 std::optional<Intersection> AxisAlignedBox::getFirstIntersection(Ray ray, float eps) const
 {
@@ -107,7 +126,34 @@ std::optional<Intersection> TriangleSoup::getFirstIntersection(Ray ray, float ep
     return ret;
 }
 
-std::optional<Intersection> Sphere::getFirstIntersection(Ray ray, float eps) const { return std::nullopt; }
+std::optional<Intersection> Sphere::getFirstIntersection(Ray ray, float eps) const { 
+    ray = ray.normalize();
+
+    glm::vec3 oc = ray.origin - position;
+    float a = glm::dot(ray.direction, ray.direction);
+    float b = 2.f * glm::dot(ray.direction, oc);
+    float c = glm::dot(oc, oc) - radius * radius;
+
+    float discriminant = b * b - 4.f * a * c;
+
+    if (discriminant < 0.f) return std::nullopt;
+
+    float sqrt_disc = glm::sqrt(discriminant);
+    float t1 = (-b - sqrt_disc) / (2.f * a);
+    float t2 = (-b + sqrt_disc) / (2.f * a);
+
+    float t = std::numeric_limits<float>::max();
+
+    if (t1 > eps && t1 < t) t = t1;
+    if (t2 > eps && t2 < t) t = t2;
+    if (t == std::numeric_limits<float>::max()) return std::nullopt;
+
+    Intersection result;
+    result.position = ray.origin + t * ray.direction;
+    result.normal   = glm::normalize(result.position - position);
+    result.distance = t;
+    return result;
+}
 
 std::optional<Intersection> InfiniteCylinder::getFirstIntersection(Ray ray, float eps) const { return std::nullopt; }
 

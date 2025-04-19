@@ -98,8 +98,8 @@ class MyPanelRenderer : public PanelRendererInterface {
         : callback(callback)
         , view(20.f, glm::radians(30.f), glm::radians(-45.f))
         // ********************************************** //
-        , orthographic_camera(new OrthographicCamera())
-        //, perspective_camera(new PerspectiveCamera())
+        //, orthographic_camera(new OrthographicCamera())
+        , perspective_camera(new PerspectiveCamera())
         // ********************************************** //
         , current_context_number(0)
         , context_A()
@@ -123,21 +123,21 @@ class MyPanelRenderer : public PanelRendererInterface {
         context_user.scene = Scene();
 
         // ********************************************** //
-        context_A.camera    = orthographic_camera;
-        context_B.camera    = orthographic_camera;
-        context_C.camera    = orthographic_camera;
-        context_D.camera    = orthographic_camera;
-        context_E.camera    = orthographic_camera;
-        context_F.camera    = orthographic_camera;
-        context_user.camera = orthographic_camera;
+        //context_A.camera    = orthographic_camera;
+        //context_B.camera    = orthographic_camera;
+        //context_C.camera    = orthographic_camera;
+        //context_D.camera    = orthographic_camera;
+        //context_E.camera    = orthographic_camera;
+        //context_F.camera    = orthographic_camera;
+        //context_user.camera = orthographic_camera;
 
-        // context_A.camera = perspective_camera;
-        // context_B.camera = perspective_camera;
-        // context_C.camera = perspective_camera;
-        // context_D.camera = perspective_camera;
-        // context_E.camera = perspective_camera;
-        // context_F.camera = perspective_camera;
-        // context_user.camera = perspective_camera;
+        context_A.camera = perspective_camera;
+        context_B.camera = perspective_camera;
+        context_C.camera = perspective_camera;
+        context_D.camera = perspective_camera;
+        context_E.camera = perspective_camera;
+        context_F.camera = perspective_camera;
+        context_user.camera = perspective_camera;
         //  ********************************************** //
     }
 
@@ -169,8 +169,8 @@ class MyPanelRenderer : public PanelRendererInterface {
         view.setPhi(phi);
 
         // ********************************************** //
-        ImGui::SliderFloat("Orthographic Vertical Scale", &orthographic_camera->vertical_scale, 0.01f, 100.f);
-        // ImGui::SliderAngle("Perspective Vertical FOV", &perspective_camera->vertical_fov_radians, 20.f, 160.f);
+        //ImGui::SliderFloat("Orthographic Vertical Scale", &orthographic_camera->vertical_scale, 0.01f, 100.f);
+        ImGui::SliderAngle("Perspective Vertical FOV", &perspective_camera->vertical_fov_radians, 20.f, 160.f);
         //  ********************************************** //
 
         ImGui::SliderInt("Recursion Depth", &max_recursion_depth, 0, 15);
@@ -195,15 +195,15 @@ class MyPanelRenderer : public PanelRendererInterface {
     void renderCurrentContext()
     {
         // ********************************************** //
-        orthographic_camera->position   = view.getPos();
-        orthographic_camera->direction  = view.getDirection();
-        orthographic_camera->approx_up  = glm::vec3(0.f, 1.f, 0.f);
-        orthographic_camera->dimensions = callback->current_window_dims;
+        //orthographic_camera->position   = view.getPos();
+        //orthographic_camera->direction  = view.getDirection();
+        //orthographic_camera->approx_up  = glm::vec3(0.f, 1.f, 0.f);
+        //orthographic_camera->dimensions = callback->current_window_dims;
 
-        // perspective_camera->position   = view.getPos();
-        // perspective_camera->direction  = view.getDirection();
-        // perspective_camera->approx_up  = glm::vec3(0.f, 1.f, 0.f);
-        // perspective_camera->dimensions = callback->current_window_dims;
+        perspective_camera->position   = view.getPos();
+        perspective_camera->direction  = view.getDirection();
+        perspective_camera->approx_up  = glm::vec3(0.f, 1.f, 0.f);
+        perspective_camera->dimensions = callback->current_window_dims;
         // ********************************************** //
 
         getCurrentContext().renderTexture(max_recursion_depth);
@@ -214,8 +214,8 @@ class MyPanelRenderer : public PanelRendererInterface {
     TurnTableView view;
 
     // ********************************************** //
-    std::shared_ptr<OrthographicCamera> orthographic_camera;
-    // std::shared_ptr<PerspectiveCamera> perspective_camera;
+    //std::shared_ptr<OrthographicCamera> orthographic_camera;
+    std::shared_ptr<PerspectiveCamera> perspective_camera;
     // ********************************************** //
 
     int current_context_number;
