@@ -45,22 +45,33 @@ std::vector<CameraRay> OrthographicCamera::generateRays() const
 }
 
 std::vector<CameraRay> PerspectiveCamera::generateRays() const { 
-    
+    /*
+     * generates a ray for each pixel following perspective projection
+     * uses vertical FOV and aspect ratio to compute the image plane size
+     * the plane begins 1 unit in front of the camera and each pixel
+     * is mapped to a point on the plane. A ray is cast from the 
+     * camera through that point.   
+     */
 
     glm::vec3 forward = glm::normalize(direction); // camera z axis.
     glm::vec3 right = rightDirection();
     glm::vec3 up = upDirection();
 
-    // Step 1: Compute image plane dimensions at z = -1
-    float image_plane_height = 2.f * std::tan(vertical_fov_radians / 2.f);
-    float image_plane_width = image_plane_height * aspectRatio();
+    // size of the image plane 1 unit from the camera
+    // width is scaled using the aspect ration, vertical FOV spans from top to bottom of the image plane
+    float height = 2.f * std::tan(vertical_fov_radians / 2.f);
+    float width = height * aspectRatio();
+    // world space center of hte image plane.
+    glm::vec3 center = position + forward;
+    // horizontal and vertical vectors scaled to image plane size
+    glm::vec3 horizontal = width * right;
+    glm::vec3 vertical = height * up;
+    // camera-relative origin calculation
+    glm::vec3 left_offset = -0.5f * horizontal;  // offset left by half the image width
+    glm::vec3 down_offset = -0.5f * vertical;    // offset down by half the image height
+    glm::vec3 origin = center + left_offset + down_offset;
 
-    glm::vec3 image_center = position + forward;
-    glm::vec3 horizontal = image_plane_width * right;
-    glm::vec3 vertical = image_plane_height * up;
-
-    glm::vec3 bottom_left = image_center - 0.5f * horizontal - 0.5f * vertical;
-
+    // ray to pixel mapping
     std::vector<CameraRay> ret = Camera::generateRays();
     for (CameraRay& camera_ray : ret) {
         float x_i_f = static_cast<float>(camera_ray.pixel.x);
@@ -70,8 +81,13 @@ std::vector<CameraRay> PerspectiveCamera::generateRays() const {
         float u = (x_i_f + 0.5f) / static_cast<float>(dimensions.x);
         float v = (y_i_f + 0.5f) / static_cast<float>(dimensions.y);
 
-        glm::vec3 pixel_position = bottom_left + u * horizontal + v * vertical;
+        // position of the pixel in world-space
+        glm::vec3 pixel_position = origin + u * horizontal + v * vertical;
+
+        // direction from camera to pixel, normalized
         glm::vec3 ray_direction = glm::normalize(pixel_position - position);
+
+        // create the ray
         camera_ray.ray = Ray(position, ray_direction);
     }
 

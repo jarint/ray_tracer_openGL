@@ -10,7 +10,7 @@ TraceResult Scene::trace(const Ray &ray, TraceParameters params)
     result.colour = sky_colour;
 
     // Safety check, if below 0, then immediatly return the ambient light (should not be here)
-    //if (params.level < 0) return result;
+    // if (params.level < 0) return result;
 
     // Finding the intersection
     IntersectionParameters intersect_params;
@@ -37,16 +37,12 @@ TraceResult Scene::trace(const Ray &ray, TraceParameters params)
     glm::vec3 v_dir = glm::normalize(ray.origin - intersection.position);
 
     // PART 4 - Cast a shadow ray to see if light is occluded
-
-    // offset to prevent self-intersection
-    const float shadow_eps = intersect_params.self_eps;
     // the ray begins a little below the surface and points towards the light source
-    Ray shadow_raycast(intersection.position - glm::normalize(intersection.normal) * shadow_eps, l_dir);
+    Ray shadow_raycast(intersection.position - intersection.normal * intersect_params.self_eps, l_dir);
     
     // intersection paramters for a shadow ray
     IntersectionParameters shadow_parameters;
     shadow_parameters.self_object_index = object_index;
-    shadow_parameters.self_eps = shadow_eps;
 
     // to check if an object lies between the shadow ray and the light source
     // find the closest intersection, and check if it occurs before the light
@@ -70,8 +66,7 @@ TraceResult Scene::trace(const Ray &ray, TraceParameters params)
         glm::vec3 reflect_direction = glm::reflect(-v_dir, glm::normalize(intersection.normal));
 
         // Create a new Ray object for the reflected ray that is offset from the intersection.
-        // I used the same eror term as I did for the shadows with shadow_eps
-        Ray reflected_ray = Ray(intersection.position + reflect_direction * shadow_eps, reflect_direction).normalize();
+        Ray reflected_ray = Ray(intersection.position + reflect_direction * intersect_params.self_eps, reflect_direction);
 
         // parameters for reflected ray
         TraceParameters reflect_parameters;

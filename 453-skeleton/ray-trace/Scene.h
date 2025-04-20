@@ -15,7 +15,7 @@ struct TraceResult {
 
 struct IntersectionParameters {
     int self_object_index = -1;  // May be useful for self intersections
-    float self_eps        = 0.001f;  // May be useful for self intersections
+    float self_eps        = 0.000001f;  // May be useful for self intersections
 };
 
 struct IntersectionResult {
