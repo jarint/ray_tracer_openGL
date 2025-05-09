@@ -2,7 +2,7 @@
 
 #include "ray-trace/Scene.h"
 
-// ------------- DO NOT CHANGE THESE, you will lose makes ------------- //
+
 class RayTracingBaselineScenes {
   public:
     static Scene A();
