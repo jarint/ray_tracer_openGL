@@ -2,7 +2,7 @@
 
 #include <glm/gtx/transform.hpp>
 
-// ------------- DO NOT CHANGE THESE, you will lose makes  ------------- //
+
 
 TriangleSoup ringGeometry(const glm::mat4 &transform)
 {
