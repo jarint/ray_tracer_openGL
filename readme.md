@@ -1,4 +1,4 @@
-# CPSC 453: Assignment 5
+# Basic Ray Tracer
 
 Name: Jarin Thundathil
 UCID: 10149776
@@ -14,9 +14,9 @@ Platform: MacOS
 on visual studio I guess you can just hit the play button. 
 
 ### IMPLEMENTATIONS:
-All basic implementations completed. Bonus 1 also completed.
+There are working implementations for ray-sphere, ray-plane, and ray-cylinder intersections. This is a CPU-only ray tracer so it's not very performant. I'm working on making a GPU-rendered version.
 
-My implementation of Bonus one borrows a lot of math from David Cobbs derivation and implementation
+My implementation of ray-cylinder intersection borrows a lot of math from David Cobbs derivation and implementation
 of Ray-Cylinder intersections. Check the comments in Shape.cpp for more info. The link for the page is:
 
 https://davidjcobb.github.io/articles/ray-cylinder-intersection 
