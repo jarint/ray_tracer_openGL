@@ -1,7 +1,6 @@
 # Basic Ray Tracer
 
-Name: Jarin Thundathil
-UCID: 10149776
+Author: Jarin Thundathil
 Platform: MacOS 
 
 ### TO RUN:
