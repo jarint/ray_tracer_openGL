@@ -24,13 +24,6 @@
 // To swap to perspective camera, see these locations in this file (main.cpp) to modify. This commenet below will indicate:
 // ********************************************** //
 
-// Do not modify scenes A-F (0-5) as they will be used to grade your submission, doing so will lose you marks!!!!!
-// If you want to make your own scenes use the context_user member in the renderer or add additional
-// if you want to make more then one.
-
-// Read the D2L page for pointers on where the code that needs to be modified. All that NEEDs to be done in this file is uncomment
-//  and comment the perspective and orthographic stuff, the rest of the changes will be in files in the ray-trace sub folder
-
 struct RayTracingContext {
     // ------------- Avoid modifying this class, unless you need to add new TraceParameters or do sub-sampling (more then one ray
     // per pixel) ------------- //
@@ -92,7 +85,6 @@ class MyCallback : public CallbackInterface {
 };
 
 class MyPanelRenderer : public PanelRendererInterface {
-    // ------------- You may modify this class but be sure you do not break functionality or scenes A-F (0-5) ------------- //
   public:
     MyPanelRenderer(std::shared_ptr<MyCallback> callback)
         : callback(callback)
