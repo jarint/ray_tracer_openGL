@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15.0)
-project(453-ray-tracing)
+project(ray-tracing)
 
 set(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/modules/" ${CMAKE_MODULE_PATH})
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})
@@ -98,8 +98,8 @@ endif()
 
 # Compile our main application
 file(GLOB SOURCES
-    453-skeleton/*
-    453-skeleton/ray-trace/*
+    src/*
+    src/ray-trace/*
 	${IMGUI_CPP_FILES}
 )
 set(INCLUDES ${INCLUDES} src)
